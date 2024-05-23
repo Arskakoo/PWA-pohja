@@ -2,6 +2,10 @@
 
 Valmis PWA sovelluspohja. Helppokäyttöinen sekä yksinkertainen pohja. Koodista löytyy apu kommentteja.
 
+Muista ladata node_modules
+
+    npm i
+    
 #### ! Sivustolla ei voi käyttää routeria !
 
 multipage PWA sovelluksen voi luoda muulla tavalla mutta ei roateria käyttämällä
