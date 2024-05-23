@@ -2,9 +2,7 @@
 
 Valmis PWA sovelluspohja. Helppokäyttöinen sekä yksinkertainen pohja. Koodista löytyy apu kommentteja.
 
-
 #### ! Sivustolla ei voi käyttää routeria !
-
 
 ## Ominaisuuksia
 
