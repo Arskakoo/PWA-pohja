@@ -5,7 +5,7 @@ Valmis PWA sovelluspohja. Helppokäyttöinen sekä yksinkertainen pohja. Koodist
 Muista ladata node_modules
 
     npm i
-    
+
 #### ! Sivustolla ei voi käyttää routeria !
 
 multipage PWA sovelluksen voi luoda muulla tavalla mutta ei roateria käyttämällä
@@ -39,4 +39,4 @@ PWA-sovellus johon on valmiiksi ladattuna seuraavat asiat:
 
 ## Kun sovellus on valmis
 
-Buildaa react sivusto ja julkaise se esim GitHubissa.
+Buildaa react sivusto ja julkaise se esim GitHubissa tai vercelissä.
